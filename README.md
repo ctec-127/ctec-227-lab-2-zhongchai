@@ -2,4 +2,4 @@
 
 ## Details
 
-The instructions for this lab can be found [ctec-227-lab-2-instructions.pdf](in this PDF document).
+The instructions for this lab can be found [in this document](ctec-227-lab-2-instructions.pdf).
